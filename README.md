@@ -10,10 +10,12 @@ Experiência em desenvolvimento de sites, web services, serviços e programas de
 
 Palestrante voluntário em eventos internos sobre **D&I**.
 
-# :ballot_box_with_check: Linguagens, Tecnologias e Frameworks:
+<b>:ballot_box_with_check: Linguagens, Tecnologias e Frameworks:</b>
+</br>
 Scrum, Kanban, .Net, .Net Core, C#, Visual Basic, ASP, Polymer, HTML, Json, MVC, SQL Server, Azure, Azure DevOps, Jira, TFS, Git e RTC.
 
-# :arrow_upper_right: Metas para 2021:
+<b>:arrow_upper_right: Metas para 2021:</b>
+</br>
 - Melhorar o GitHub;
 - Estudos focados em liderança e gestão;
 - MBA em Gestão de Projetos na FIAP (Aguardando retorno presencial);
